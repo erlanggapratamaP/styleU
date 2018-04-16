@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">styleU</string>
+
+    //slide
+    <string name="title1">Apa itu styleU ?</string>
+    <string name="desc1">styleU membantu anda memutuskan pakaian yang anda kenakan saat ini</string>
+    <string name="title2">Bagaimana cara kerjanya ?</string>
+    <string name="desc2">Simple! jawab pertanyaan yang kami berikan</string>
+    <string name="title3">Temukan Pakaian yang tepat!</string>
+    <string name="desc3">Lanjut menggunakan!</string>
+</resources>
